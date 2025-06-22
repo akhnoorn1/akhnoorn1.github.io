@@ -14,6 +14,8 @@ Short-bio: Neeraj Akhnoor has been interests in Web Application Programming and 
 
 Respository's URL: https://github.com/akhnoorn1/akhnoorn1.github.io
 
+Deployed URL : https://akhnoorn1.github.io/
+
 This is a private repository for Neeraj Akhnoor to store all code from the course. The organization of this repository is as follows.
 
 Project 1:
